@@ -1,4 +1,6 @@
 #!/bin/bash
 
-./floating-action-bar/floating_action_bar
+cd ~/floating-action-bar || exit
+
+./floating_action_bar
 
